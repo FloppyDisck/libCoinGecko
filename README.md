@@ -10,7 +10,7 @@ git clone https://github.com/yhirose/cpp-httplib.git
 cd cpp-httplib
 mkdir -p build
 cd build
-cmake -DCMAKE_BUILD_TYPE=Release -DHTTPLIB_COMPILE=on -DBUILD_SHARED_LIBS=on..
+cmake -DCMAKE_BUILD_TYPE=Release -DHTTPLIB_COMPILE=on -DBUILD_SHARED_LIBS=on ..
 sudo cmake --build . --target install
 ```
 
