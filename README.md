@@ -6,7 +6,7 @@ You must first install the http library used
 
 Install [cpp-httplib](https://github.com/yhirose/cpp-httplib)
 ```bash
-https://github.com/yhirose/cpp-httplib.git
+git clone https://github.com/yhirose/cpp-httplib.git
 cd cpp-httplib
 mkdir -p build
 cd build
